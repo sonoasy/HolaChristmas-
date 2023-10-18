@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
 
-## 프로젝트 회고록 및 데모영상
+## 데모영상
 
-회고록 : https://sunnn21.tistory.com/20
+링크: https://drive.google.com/file/d/1GDQ0WYggZkGaRqMvsN8y3kdXT-lUHicE/view?usp=share_link
