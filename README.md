@@ -2,7 +2,8 @@
 🎵 BGM - 사탕요정의 춤 
 <br/>
 <br/>
-<img src="https://github.com/sonoasy/HolaChristmas-/assets/61787171/9bd25a57-7e94-4de7-ae95-f43f9a0581b3.png  width="200" height="400"/>
+![image](https://github.com/sonoasy/HolaChristmas-/assets/61787171/ef44edab-1d44-488e-ac3c-c0d0267dc2aa)
+
 
 ## 게임 줄거리 
 
