@@ -1,8 +1,5 @@
 # 🎄 Hola Christmas!
 🎵 BGM - 사탕요정의 춤 
-<br/>
-<br/>
-![image](https://github.com/sonoasy/HolaChristmas-/assets/61787171/81ca8517-db8e-496d-bffd-3e74455ee8e3)
 
 ## 게임 줄거리 
 
